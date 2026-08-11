@@ -1,5 +1,13 @@
-# Olá rede! 👋
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="300">
 
-Eu sou a Emanuely, e este é o meu perfil do GitHub!
+# Olá, rede! 👋
 
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlobHBtYXZnMnY2czJncXNyMHlkczUxbWxzNDAxajFnMGhqcDBudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif)
+Eu sou a Emanuely, tenho 19 anos e sou estudante do **4º período de Sistemas de Informação**. 🎓
+
+Trabalho como **Analista de Suporte** e estou sempre buscando aprender, desenvolver minhas habilidades e crescer na área de tecnologia. 💻
+
+Este é o meu perfil do GitHub! 🐱
+
+### 🔗 LinkedIn
+
+[LinkedIn](https://www.linkedin.com/in/emanuely-mendes-moreira-776083248/)
