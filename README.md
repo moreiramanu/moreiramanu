@@ -2,11 +2,11 @@
 
 # Olá, rede! 👋
 
-Eu sou a Emanuely, tenho 19 anos e sou estudante do **4º período de Sistemas de Informação**. 🎓
+Eu sou a Emanuely, tenho 19 anos e sou estudante do **4º período de Sistemas de Informação**. 
 
-Trabalho como **Analista de Suporte** e estou sempre buscando aprender, desenvolver minhas habilidades e crescer na área de tecnologia. 💻
+Trabalho como **Analista de Suporte** e estou sempre buscando aprender, desenvolver minhas habilidades e crescer na área de tecnologia. 
 
-Este é o meu perfil do GitHub! 🐱
+Este é o meu perfil do GitHub! 
 
 ### 🔗 LinkedIn
 
