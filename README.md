@@ -2,4 +2,4 @@
 
 Eu sou a Emanuely, e este é o meu perfil do GitHub!
 
-[![Gatinho](https://tenor.com/pt-BR/view/cat-gif-26024704)](https://tenor.com/pt-BR/view/cat-gif-26024704)
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlobHBtYXZnMnY2czJncXNyMHlkczUxbWxzNDAxajFnMGhqcDBudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif)
