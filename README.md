@@ -8,6 +8,6 @@ Trabalho como **Analista de Suporte** e estou sempre buscando aprender, desenvol
 
 Este é o meu perfil do GitHub! 
 
-### 🔗 LinkedIn
+### Conecte-se comigo no linkedin!
 
 [LinkedIn](https://www.linkedin.com/in/emanuely-mendes-moreira-776083248/)
