@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="300">
 
-# Olá, rede! 👋
+# Olá! 👋
 
 Eu sou a Emanuely, tenho 19 anos e sou estudante do **4º período de Sistemas de Informação**. 
 
